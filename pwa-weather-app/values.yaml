@@ -87,7 +87,7 @@ strategy:
 
 #HPA
 maxReplicas: 10
-minReplicas: 5
+minReplicas: 7
 
 #PDB
 minAvailable: 2
